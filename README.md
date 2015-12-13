@@ -5,4 +5,4 @@ Real estate web crawler using scrapy.
 *scrapy crawl realtysouth -o items.csv
 
 #####Originally done for freelancing but he cancelled the job in between :/
-#####^Same reason to have a spider for only one website.
+#####^Same reason to have only one spider
